@@ -1,0 +1,25 @@
+﻿body {
+
+    background-color:ghostwhite;
+
+}
+
+.jumbotron{
+
+    background-color:mediumpurple;
+    background-image:url(/Content/office1.jpg);
+    font-family:monospace;
+    color:#000;
+    
+    
+  
+
+
+
+}
+
+.navbar{
+
+    background-color:#2e3f6f;
+
+}
